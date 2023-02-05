@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d18ce4b-452a-4d87-b56c-ed29413d7d36" name="Default Changelist" comment="Commiting">
-      <change afterPath="$PROJECT_DIR$/public/labs/a3/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/labs/a3/index.html" afterDir="false" />
+    <list default="true" id="1d18ce4b-452a-4d87-b56c-ed29413d7d36" name="Default Changelist" comment="Committing Lab.">
+      <change afterPath="$PROJECT_DIR$/public/labs/a3/smiley.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/bookmarks/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/bookmarks/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/bookmarks/profile_pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/explore/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/explore/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/labs/a3/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/labs/a3/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/labs/a3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/labs/a3/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +27,18 @@
     <setting file="file://$PROJECT_DIR$/public/index.html" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/App.js" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/labs/a3" />
+  </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/labs/a3" />
+      <recent name="$PROJECT_DIR$/public/tuiter/bookmarks" />
+      <recent name="$PROJECT_DIR$/public/tuiter/explore" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/tuiter/explore" />
+      <recent name="$PROJECT_DIR$/public/tuiter/" />
       <recent name="$PROJECT_DIR$/public/labs/a3" />
     </key>
   </component>
@@ -47,10 +62,10 @@
     <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tuiter-react-web-app/public/labs/a3/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tuiter-react-web-app/public/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tuiter-react-web-app/public/tuiter/explore/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="navigation.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tuiter-react-web-app/public/tuiter/navigation.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tuiter-react-web-app/public/tuiter/bookmarks/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="other-page.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tuiter-react-web-app/public/labs/a2/other-page.html" useBuiltInWebServerPort="true">
@@ -59,14 +74,22 @@
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.index.html (2)" />
-        <item itemvalue="JavaScript Debug.other-page.html" />
-        <item itemvalue="JavaScript Debug.navigation.html" />
-        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html (3)" />
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.other-page.html" />
       </list>
     </recent_temporary>
   </component>
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="Committing Lab.">
+      <created>1675310615167</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675310615167</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,6 +106,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commiting" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commiting" />
+    <MESSAGE value="Committing Lab." />
+    <option name="LAST_COMMIT_MESSAGE" value="Committing Lab." />
   </component>
 </project>
