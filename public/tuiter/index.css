@@ -1,109 +1,146 @@
-.bg-color-black {
+.wd-bg-color-black {
     background-color: black;
     color: white;
 }
 
-.border-solid {
+.wd-border-solid {
     border-style: solid;
 }
 
-.border-color {
+.wd-border-color {
     border-color: #475154;
 }
 
-.bg-color-gray {
+.wd-bg-color-gray {
     background-color: #657786;
 }
 
-.padded-top-left {
+.wd-padded-top-left {
     padding-left: 16px;
 }
 
-.rounded-corners-all-around {
+.wd-rounded-corners-all-around {
     border-radius: 100px;
     width: 400px;
 }
 
-.fg-color-white {
+.wd-tuit-border {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-style: solid;
+    border-color: rgb(47, 51, 54);
+    border-width: thin;
+    margin: 0px;
+}
+
+.wd-fg-color-white {
     color: white;
+}
+
+.wd-fit-image {
+    height: 100px;
 }
 
 #menu-outer {
     height: 20x;
 }
 
+
 ul#horizontal-list {
-    min-width: 696px;
-    list-style: none;
-    padding: 16px;
-    margin-right: 16px;
 }
+
 
 ul#horizontal-list li {
     display: inline;
+    margin: 0px;
 
 }
 
-.margin-right {
+.wd-margin-right {
     margin-right: 16px;
 }
 
-.for-you {
+.wd-for-you {
     color: #1DA1F2;
+    border-bottom:2px solid rgb(29,161,242);
 }
 
-.other-headers {
+.wd-yesterday {
+    display: inline;
+    font-family: Roboto;
+    margin-right: 2px;
+    color: #6E767D;
+    font-size: 15px;
+}
+
+.wd-other-headers {
+    padding: 16px;
     color: #6E767D;
 }
 
-.heading-fonts {
+.wd-heading-fonts {
     font-family: Roboto;
     font-style: normal;
     font-size: 16px;
+    font-weight: bold;
 }
 
-.no_underline {
+.wd-no_underline {
     text-decoration: none
 }
 
-.bookmarks-font {
+.wd-bookmarks-font {
     font-family: Roboto;
     font-size: 16px;
 }
 
-.topic {
+.wd-topic {
     font-family: Roboto;
     margin-left: 18px;
     color: #6E767D;
     font-size: 13px;
 }
 
-.special-topic {
+.wd-special-topic {
     font-family: Roboto;
     margin-left: 18px;
     color: #FFFFFF;
     font-size: 14px;
 }
 
-.title {
+.wd-input-text{
+    background-color: rgb(53, 51, 51);
+    border-radius: 50px;
+    width: 40%;
+    padding: 7px;
+    padding-left: 20px;
+    border:none;
+    color: rgb(110, 118,125);
+    margin-bottom:1px;
+    pading-right: 1px;
+    font-size: 15px;
+}
+
+.wd-icon-gear {
+
+}
+
+.wd-title {
     font-family: Roboto;
     margin-left: 18px;
     color: #FFFFFF;
     font-size: 16px;
 }
 
-.post {
+.wd-post {
     display: flex;
     margin: 16px;
 }
 
-.image {
+.wd-image {
     width: 100px;
     height: 100px;
     border-radius: 25px;
     margin-right: auto;
-
-
-
 }
 
