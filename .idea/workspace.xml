@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d18ce4b-452a-4d87-b56c-ed29413d7d36" name="Default Changelist" comment="Noticed a few minor things, polishing." />
+    <list default="true" id="1d18ce4b-452a-4d87-b56c-ed29413d7d36" name="Default Changelist" comment="Noticed a few minor things, polishing.">
+      <change beforePath="$PROJECT_DIR$/public/tuiter/bookmarks/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/bookmarks/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,7 +112,7 @@
       <option name="presentableId" value="Default" />
       <updated>1675645081682</updated>
       <workItem from="1675645087235" duration="10772000" />
-      <workItem from="1675726397362" duration="20218000" />
+      <workItem from="1675726397362" duration="20534000" />
     </task>
     <task id="LOCAL-00003" summary="Committing code.">
       <created>1675658676323</created>
@@ -133,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675918195745</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Noticed a few minor things, polishing.">
+      <created>1675918542700</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675918542700</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
