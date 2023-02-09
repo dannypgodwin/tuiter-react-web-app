@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d18ce4b-452a-4d87-b56c-ed29413d7d36" name="Default Changelist" comment="Committing code.">
-      <change afterPath="$PROJECT_DIR$/public/tuiter/bookmarks/3_blue_dots.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tuiter/bookmarks/chat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tuiter/bookmarks/heart.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tuiter/bookmarks/retweet.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tuiter/bookmarks/upload.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tuiter/explore/verification-check.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tuiter/bookmarks/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/bookmarks/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/labs/a3/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/labs/a3/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/labs/a3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/labs/a3/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tuiter/bookmarks/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/bookmarks/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tuiter/explore/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tuiter/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +54,7 @@
       <recent name="$PROJECT_DIR$/public/labs/a3" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html (2)">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -91,9 +85,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.index.html (3)" />
-        <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.other-page.html" />
       </list>
@@ -122,7 +116,7 @@
       <option name="presentableId" value="Default" />
       <updated>1675645081682</updated>
       <workItem from="1675645087235" duration="10772000" />
-      <workItem from="1675726397362" duration="15546000" />
+      <workItem from="1675726397362" duration="19763000" />
     </task>
     <task id="LOCAL-00003" summary="Committing code.">
       <created>1675658676323</created>
@@ -131,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675658676323</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Committing code.">
+      <created>1675749961327</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675749961327</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
