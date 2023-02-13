@@ -1,0 +1,63 @@
+.btn-primary.override-bs {
+    background-color: #a90dfd;
+    border-color: #fd0d51;
+    border-width: 10px;
+    border-radius: 20px;
+    border-style: dashed;
+    font-size: 2em;
+    font-weight: bolder;
+}
+
+.wd-web-dev-font {
+    background-color: darkgray;
+    font-family: Roboto;
+    font-size: 45px;
+}
+
+.wd-search {
+    display: flex;
+    align-items: center;
+}
+
+.wd-rounded-corner {
+    border-radius: 50px;
+}
+
+.wd-search-icon {
+    position: absolute;
+    padding-left: 30px;
+}
+
+.wd-title {
+    color: black;
+    font-weight: bold;
+}
+
+.wd-text-normal {
+    font-weight: normal;
+}
+
+.wd-image {
+    border-radius: 20px;
+    float: right;
+    width: 100px;
+    height: 100px;
+}
+
+.wd-row {
+    clear: both;
+}
+
+.wd-height {
+    height:150px;
+}
+
+.wd-height_two {
+    height:140px;
+}
+
+.wd-follow-button {
+    border-radius: 20px;
+    width: 40px;
+    height: 40px;
+}
