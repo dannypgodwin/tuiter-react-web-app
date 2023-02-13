@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1d18ce4b-452a-4d87-b56c-ed29413d7d36" name="Default Changelist" comment="Committing Lab + A4.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tuiter/navigation.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/navigation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/A4_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore/A4_index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/a4_index_challenge.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore/a4_index_challenge.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +63,7 @@
       <recent name="$PROJECT_DIR$/public/labs/a3" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.navigation.html">
+  <component name="RunManager" selected="JavaScript Debug.A4_index.html">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -93,9 +94,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.navigation.html" />
         <item itemvalue="JavaScript Debug.A4_index.html" />
         <item itemvalue="JavaScript Debug.a4_index_challenge.html" />
+        <item itemvalue="JavaScript Debug.navigation.html" />
         <item itemvalue="JavaScript Debug.index2.html" />
         <item itemvalue="JavaScript Debug.index.html (3)" />
       </list>
@@ -129,7 +130,7 @@
       <workItem from="1676228635235" duration="10398000" />
       <workItem from="1676241790923" duration="1623000" />
       <workItem from="1676243631500" duration="3496000" />
-      <workItem from="1676247221123" duration="630000" />
+      <workItem from="1676247221123" duration="4914000" />
     </task>
     <task id="LOCAL-00003" summary="Committing code.">
       <created>1675658676323</created>
@@ -166,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676247517894</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Committing Lab + A4.">
+      <created>1676247993885</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676247993885</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
