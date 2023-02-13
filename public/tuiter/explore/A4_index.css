@@ -1,0 +1,61 @@
+.btn-primary.override-bs {
+    background-color: #a90dfd;
+    border-color: #fd0d51;
+    border-width: 10px;
+    border-radius: 20px;
+    border-style: dashed;
+    font-size: 2em;
+    font-weight: bolder;
+}
+
+.wd-title {
+    color: black;
+    font-weight: bold;
+}
+
+.wd-search-icon {
+    padding-left: 25px;
+    position: absolute;
+}
+
+.wd-text-normal {
+    font-weight: normal;
+}
+
+.wd-rounded-sides {
+
+}
+
+.wd-search {
+    display: flex;
+    align-items: center;
+}
+
+.wd-rounded-corner {
+    border-radius: 50px;
+}
+
+.wd-row {
+    clear: both;
+}
+
+.wd-height {
+    height:150px;
+}
+
+.wd-height_two {
+    height:140px;
+}
+
+.wd-follow-button {
+    border-radius: 20px;
+    width: 40px;
+    height: 40px;
+}
+
+.wd-image {
+    border-radius: 20px;
+    float: right;
+    width: 100px;
+    height: 100px;
+}
