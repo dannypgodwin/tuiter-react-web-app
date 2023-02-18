@@ -1,0 +1,39 @@
+.wd-post
+.wd-topic,
+.wd-post
+.wd-tuits-num {
+	color: rgb(110, 118, 125);
+    font-size: 15px;
+
+}
+
+.wd-topic-author {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.wd-post {
+	display: flex;
+	color: white;
+	flex-direction: column;
+	align-items: flex-start;
+	padding: 10px;
+}
+
+.wd-post-with-img {
+	flex-direction: row;
+	justify-content: space-between;
+	width: 100%;
+	display: flex;
+
+}
+
+.wd-post-with-img img {
+	height: 100px;
+	width: 100px;
+}
+
+.fa-stack.small {
+	font-size: 0.5em;
+}

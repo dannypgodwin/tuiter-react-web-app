@@ -1,143 +1,20 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <head>
-        <link href="../index.css"
-              rel="stylesheet"/>
-    </head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="https://cdn.jsdelivr.net/npm/bootswatch@4.1.3/dist/cyborg/bootstrap.min.css" rel="stylesheet"/>
+    <link href="index.css" rel="stylesheet"/>
+    <link href="../../vendors/fontawesome/css/all.css" rel="stylesheet"/>
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js"
+            integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ="
+            crossorigin="anonymous"></script>
+    <meta charset="UTF-8">
+    <title>Explore screen</title>
 </head>
-
-<meta charset="utf-8">
-<title>Black Page</title>
-
 <body>
 
-<style>
-    body {
-        background-color: black;
-        border-style: solid;
-        border-width: thin;
-        border-color: rgb(47, 51, 54);
-        margin-left: 16px;
-    }
-</style>
-
-<form id="text-fields">
-    <label for="text-fields-username"></label>
-    <input id="text-fields-username"
-           style="margin-top: 16px"
-           class="wd-input-text"
-           placeholder="Search Twitter"
-    >
-    <a
-            href="explore-settings.html">
-        <img src="gear_icon.jpg" width="25px" height="25px" ; style="margin-bottom: -6px;"
-        >
-
-    </a>
-
-</form>
-
-<ul id="horizontal-list" style="padding-left: 20px">
-    <li><a href="" class="wd-for-you wd-heading-fonts" style="text-decoration:none">For you</a></li>
-    <li><a href="" class="wd-other-headers wd-heading-fonts" style="text-decoration:none">Trending</a></li>
-    <li><a href="" class="wd-other-headers wd-heading-fonts" style="text-decoration:none">COVID-19</a></li>
-    <li><a href="" class="wd-other-headers wd-heading-fonts" style="text-decoration:none">News</a></li>
-    <li><a href="" class="wd-other-headers wd-heading-fonts" style="text-decoration:none">Sports</a></li>
-    <li><a href="" class="wd-other-headers wd-heading-fonts" style="text-decoration:none">Entertainment</a></li>
-</ul>
-
-<div style="
-
-    background-color:rgb(53, 51, 51);
-    width:100%;
-    height:15px;
-    border-top-width: medium; ">
-
-</div>
-
-<div class="wd-tuit-border">
-    <div class="wd-topic">
-        Trending in Science
-    </div>
-    <div class="wd-title">
-        Starship
-    </div>
-    <div class="wd-topic">
-        55.5k Tweets
-    </div>
-</div>
-
-<div class="wd-tuit-border">
-    <div class="wd-topic">
-        Sports Trending
-    </div>
-    <div class="wd-title">
-        Joe Rogan
-    </div>
-    <div class="wd-topic">
-        5,218 Tweets
-    </div>
-</div>
-
-<div class="wd-tuit-border wd-fit-image">
-
-    <img align="right" src="cuomo.jpg" class="wd-image">
-    <div class="wd-special-topic">
-        <img src="nyt.jpg" height="16px" width="16px" style="margin-bottom:-2px; border-radius: 50%;">
-        The New York Times
-        <img src="verification-check.jpg" height="16px" width="16px" style="margin-bottom:-2px">
-        <div class="wd-yesterday">Trending</div>
-
-    </div>
-    <div class="wd-title">
-        CNN's Cuomo conundrum: A star anchor with a brother in trouble
-    </div>
-
-</div>
-
-<div class="wd-tuit-border wd-fit-image">
-
-
-    <img align="right" src="covid.jpg" class="wd-image">
-    <div class="wd-topic">
-        COVID-19 - LIVE
-    </div>
-    <div class="wd-title">
-        COVID-19: News and updates for Massachusetts
-    </div>
-R
-</div>
-
-<div class="wd-tuit-border wd-fit-image">
-
-    <img align="right" src="med.jpg" class="wd-image">
-    <div class="wd-special-topic">
-        <img src="bloomberg.jpg" height="16px" width="16px" style="margin-bottom:-2px; border-radius: 50%;">
-        Bloomberg Opinion
-        <img src="verification-check.jpg" height="16px" width="16px" style="margin-bottom:-2px">
-
-    </div>
-    <div class="wd-title">
-        Thinking about getting a booster? Read this first.
-        <div class="wd-yesterday">Trending</div>
-
-    </div>
-
-</div>
-
-<div class="wd-tuit-border">
-    <div class="wd-topic">
-        Trending in United States
-    </div>
-    <div class="wd-title">
-        Wonder Bread
-    </div>
-    <div class="wd-topic">
-        1,258 Tweets
-    </div>
-</div>
+<div class="container" id="wd-explore"></div>
+<script src="index.js" type="module"></script>
 
 </body>
 </html>
-

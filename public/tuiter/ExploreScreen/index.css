@@ -1,0 +1,74 @@
+.wd-searchbar input {
+	background-color: #eff3f4;
+	border: none;
+}
+
+.wd-searchbar {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.wd-search-icon {
+	padding-left: 8px;
+	position: absolute;
+}
+
+.wd-search-icon {
+	padding-left: 8px;
+	position: absolute;
+}
+
+.wd-post .wd-topic,
+.wd-post .wd-tuits-num {
+	font-size: 15px;
+	color: rgb(110, 118, 125);
+}
+
+.wd-post {
+	display: flex;
+	color: white;
+	flex-direction: column;
+	align-items: flex-start;
+	padding: 10px;
+}
+
+
+.wd-topic-author {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.wd-post-with-img {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	width: 100%;
+}
+
+
+.wd-follow-list img {
+	width: 42px;
+	height: 42px;
+}
+
+.wd-overlay-text {
+	color: #282828;
+}
+
+
+.wd-post-with-img img {
+	height: 100px;
+	width: 100px;
+}
+
+.fa-stack.small {
+	font-size: 0.5em;
+}
+
+.wd-follow-list,
+.wd-follow-list .list-group-item {
+	display: flex;
+	height: fit-content;
+}
