@@ -5,13 +5,89 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d18ce4b-452a-4d87-b56c-ed29413d7d36" name="Default Changelist" comment="Committing Lab + A4.">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/labs/a5/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/labs/a5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/labs/a5/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/labs/a5/todos/TodoItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/labs/a5/todos/TodoList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/labs/a5/todos/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/labs/a5/todos/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/labs/a5/todos/todos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/ExploreScreen/ExploreComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/ExploreScreen/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/ExploreScreen/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/ExploreScreen/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/HomeScreen/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/HomeScreen/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/HomeScreen/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/NavigationSidebar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/PostList/PostItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/PostList/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/PostList/posts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/PostSummaryList/PostSummaryItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/PostSummaryList/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/PostSummaryList/posts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/WhoToFollowList/WhoToFollowListItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/WhoToFollowList/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/WhoToFollowList/who.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/assets/banner.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/assets/elon_post.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/assets/grimes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/assets/icons/chat_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/assets/icons/cycle_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/assets/icons/gear_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/assets/icons/heart_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/assets/icons/search_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/assets/icons/share_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/assets/mass.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/assets/node.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/assets/starship.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/explore/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tuiter/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vendors/bootswatch/bootstrap.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tuiter/navigation.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/navigation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/A4_index.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore/A4_index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/a4_index_challenge.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore/a4_index_challenge.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/austopen.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore/austopen.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/austopen.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore/austopen.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/bloomberg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore/bloomberg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/bluecheckmark.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore/bluecheckmark.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/covid.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore/covid.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/cuomo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore/cuomo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/gear_icon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore/gear_icon.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/goldcheckmark.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore/goldcheckmark.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/java.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore/java.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/jquery.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore/jquery.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/js.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore/js.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/matt.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore/matt.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/med.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore/med.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/nasa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore/nasa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/node-js.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore/node-js.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/northeastern.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore/northeastern.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/nyt.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore/nyt.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/pointbet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore/pointbet.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/react.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore/react.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/rs.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore/rs.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/search_button.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore/search_button.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/starship.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore/starship.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/starship1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore/starship1.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/tesla.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore/tesla.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/verification-check.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore/verification-check.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tuiter/explore/vgn.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/explore/vgn.svg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -31,38 +107,49 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectId" id="2LLKlzqehTvRSJdS2G2HCWD41Z8" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/dannygodwin/2023/spring/webdev/tuiter-react-web-app/public/tuiter/explore&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/G686313/IdeaProjects/tuiter-react-web-app/public/tuiter",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\G686313\IdeaProjects\tuiter-react-web-app\public\tuiter" />
+      <recent name="C:\Users\G686313\IdeaProjects\tuiter-react-web-app\public" />
+      <recent name="C:\Users\G686313\IdeaProjects\tuiter-react-web-app\public\vendors" />
       <recent name="$PROJECT_DIR$/public/tuiter/explore" />
       <recent name="$PROJECT_DIR$/public/tuiter/bookmarks" />
-      <recent name="$PROJECT_DIR$/public/labs/a3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\G686313\IdeaProjects\tuiter-react-web-app\public\tuiter" />
       <recent name="$PROJECT_DIR$/public/tuiter/explore" />
       <recent name="$PROJECT_DIR$/public/vendors" />
       <recent name="$PROJECT_DIR$/public/tuiter" />
       <recent name="$PROJECT_DIR$/public/tuiter/" />
-      <recent name="$PROJECT_DIR$/public/labs/a3" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.navigation.html">
+  <component name="RunManager">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -91,15 +178,6 @@
     <configuration name="navigation.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/tuiter-react-web-app/public/tuiter/navigation.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JavaScript Debug.navigation.html" />
-        <item itemvalue="JavaScript Debug.A4_index.html" />
-        <item itemvalue="JavaScript Debug.a4_index_challenge.html" />
-        <item itemvalue="JavaScript Debug.index2.html" />
-        <item itemvalue="JavaScript Debug.index.html (3)" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
