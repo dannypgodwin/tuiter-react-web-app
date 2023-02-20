@@ -1,0 +1,30 @@
+body {
+	background-color: black;
+	color: white;
+	margin: 0;
+	font-family: Arial;
+}
+
+.wd-container {
+	display: flex;
+	flex-direction: column;
+	height: 100vh;
+	margin-left: 16px;
+	margin-right: 16px;
+	border-left: 1px solid;
+	border-right: 1px solid;
+	/* border-color: rgb(47, 51, 54); */
+}
+
+.wd-rounded-corners {
+	border-radius: 50px;
+}
+
+.wd-rounded-corners-small {
+	border-radius: 20px;
+}
+
+.wd-rounded-corners-top {
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+}
