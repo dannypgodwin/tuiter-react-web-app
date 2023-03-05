@@ -2,7 +2,7 @@ const posts = [
 	{
 		title: 'Amazing show about @Inspiration4x mission!',
 		userName: 'Elon Musk',
-		userAvatar: '../assets/space_ship.jpg',
+		userAvatar: '../assets/starship.jpg',
 		handle: 'elonmusk',
 		img: '../assets/space_ship.jpg',
 		time: '23h',

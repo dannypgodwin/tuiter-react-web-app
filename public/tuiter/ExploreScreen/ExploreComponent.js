@@ -23,7 +23,7 @@ const ExploreComponent = () => {
             ${navTabs}
         </ul>
         <div class="position-relative mb-2">
-            <img src="../assets/starship.jpg" class="card-img-top rounded-0">
+            <img src="../../assets/starship.jpg" class="card-img-top rounded-0">
             <div class="position-absolute bottom-0 fs-3 ms-2">
                 <p class="mb-1">SpaceX's Starship</p>
             </div>
