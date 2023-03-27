@@ -12,7 +12,7 @@ const initialState = {
         "banner_width": "100%",
         "banner_height": 200,
         "bio": "Data engineer and musician",
-        "website": "gooogle.com",
+        "website": "yahoo.com",
         "location": "Boston, MA",
         "dateOfBirth": "Dec 8, 1993",
         "dateJoined": "September, 2013",
