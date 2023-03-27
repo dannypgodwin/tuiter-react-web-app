@@ -9,7 +9,7 @@ const EditProfileComponent = () => {
     const { profile } = useSelector((state) => state.profile);
     const dispatch = useDispatch();
     const navigate = useNavigate();
-    const fullName = `${profile.firstName} ${profile.lastName}`;
+    // const fullName = `${profile.firstName} ${profile.lastName}`;
 
     const goBack = () => {
         navigate('/tuiter/profile');

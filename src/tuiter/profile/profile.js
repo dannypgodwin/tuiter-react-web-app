@@ -57,12 +57,14 @@ const ProfileComponent = () => {
                     <div className="position-relative row">
                         <img
                             src={bannerPicture}
+                            alt={"description of image"}
                             width={banner_width}
                             height={banner_height}
                         />
                         <div>
                             <img
                                 src={profilePicture}
+                                alt={"description of image"}
                                 width={profile_width}
                                 height={profile_height}
                                 className="rounded-pill position-absolute wd-nudge-up col-2"
