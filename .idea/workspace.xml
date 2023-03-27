@@ -8,17 +8,9 @@
       <change afterPath="$PROJECT_DIR$/src/tuiter/home/whats-happening.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/tuiter/profile/profile.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/tuiter/reducers/profile-reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tuiter/reducers/who-reducer.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/tuiter/tuits/tuits-item.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tuiter/tuits/tuits-list.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/tuiter/tuits/tuits-reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tuiter/tuits/tuits.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tuiter/ExploreScreen/ExploreComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/tuiter/ExploreScreen/ExploreComponent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tuiter/home/posts.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/home/posts.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tuiter/post-summary-list/post-summary-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/post-summary-list/post-summary-item.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tuiter/who-to-follow-list/who-to-follow-list-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/who-to-follow-list/who-to-follow-list-item.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tuiter/who-to-follow-list/who.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/data/who.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +145,7 @@
       <workItem from="1678915558000" duration="44000" />
       <workItem from="1678916804729" duration="11874000" />
       <workItem from="1679363561997" duration="8305000" />
-      <workItem from="1679874653603" duration="2404000" />
+      <workItem from="1679874653603" duration="2833000" />
     </task>
     <task id="LOCAL-00003" summary="Committing code.">
       <created>1675658676323</created>
@@ -309,7 +301,49 @@
       <option name="project" value="LOCAL" />
       <updated>1679876997824</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Committing A7.">
+      <created>1679877279959</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1679877279959</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Committing A7.">
+      <created>1679877287746</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1679877287746</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Committing A7.">
+      <created>1679877292034</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1679877292034</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Committing A7.">
+      <created>1679877303351</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1679877303351</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Committing A7.">
+      <created>1679877314770</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1679877314770</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Committing A7.">
+      <created>1679877329093</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1679877329093</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
