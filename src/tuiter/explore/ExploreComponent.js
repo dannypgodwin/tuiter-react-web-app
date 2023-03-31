@@ -26,7 +26,7 @@ function ExploreComponent() {
                 )}
             </ul>
             <div className="position-relative">
-                <img src="../assets/starship.jpg" className="col-sm-12 mt-2" alt="Starship" />
+                <img src="../imgs/starship.jpg" className="col-sm-12 mt-2" alt="Starship" />
                 <div className="position-absolute bottom-0">
                     <h2 className="fw-bold ms-3 text-white">SpaceX's Starship</h2>
                 </div>

@@ -1,0 +1,28 @@
+.wd-txt-w{
+    color: white;
+}
+
+.wd-nudge-up {
+    bottom: -25px;
+    left: 50px;
+}
+
+.wd-slide-r {
+    bottom: -15px;
+    right: 50px;
+}
+
+.wd-no-border{
+    border-style: none;
+}
+
+.wd-word-wrap{
+    word-wrap: normal;
+}
+
+.wd-border{
+    border-style: solid;
+    border-color: #6c757d;
+    border-width:1px;
+}
+

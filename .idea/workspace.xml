@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d18ce4b-452a-4d87-b56c-ed29413d7d36" name="Default Changelist" comment="Submitting a6." />
+    <list default="true" id="1d18ce4b-452a-4d87-b56c-ed29413d7d36" name="Default Changelist" comment="Committing A7.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +15,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="a6" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,34 +28,37 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LLKlzqehTvRSJdS2G2HCWD41Z8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/dannygodwin/2023/spring/webdev/tuiter-react-web-app/public/assets",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/dannygodwin/2023/spring/webdev/tuiter-react-web-app/public/imgs&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "JavaScript"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JavaScript&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/imgs" />
+      <recent name="$PROJECT_DIR$/src/imgs" />
       <recent name="$PROJECT_DIR$/public/assets" />
       <recent name="$PROJECT_DIR$/public/vendors" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/public/tuiter/explore" />
-      <recent name="$PROJECT_DIR$/public/tuiter/bookmarks" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public/assets" />
@@ -132,6 +137,10 @@
       <workItem from="1676243631500" duration="3496000" />
       <workItem from="1676247221123" duration="4914000" />
       <workItem from="1677986437516" duration="3847000" />
+      <workItem from="1678915558000" duration="44000" />
+      <workItem from="1678916804729" duration="11874000" />
+      <workItem from="1679363561997" duration="8305000" />
+      <workItem from="1679874653603" duration="6768000" />
     </task>
     <task id="LOCAL-00003" summary="Committing code.">
       <created>1675658676323</created>
@@ -182,7 +191,231 @@
       <option name="project" value="LOCAL" />
       <updated>1678051706284</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Submitting a6.">
+      <created>1678051864809</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1678051864809</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Submitting a6.">
+      <created>1679619974011</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1679619974011</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Submitting a6.">
+      <created>1679619988694</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1679619988694</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Committing A7.">
+      <created>1679875168602</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1679875168602</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Committing A7.">
+      <created>1679876235682</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1679876235682</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Committing A7.">
+      <created>1679876501556</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1679876501556</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Committing A7.">
+      <created>1679876542993</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1679876542993</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Committing A7.">
+      <created>1679876609377</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1679876609377</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Committing A7.">
+      <created>1679876627367</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1679876627367</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Committing A7.">
+      <created>1679876655942</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1679876655942</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Committing A7.">
+      <created>1679876670975</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1679876670975</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Committing A7.">
+      <created>1679876972504</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1679876972504</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Committing A7.">
+      <created>1679876981504</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1679876981504</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Committing A7.">
+      <created>1679876991015</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1679876991015</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Committing A7.">
+      <created>1679876997824</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1679876997824</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Committing A7.">
+      <created>1679877279959</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1679877279959</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Committing A7.">
+      <created>1679877287746</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1679877287746</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Committing A7.">
+      <created>1679877292034</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1679877292034</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Committing A7.">
+      <created>1679877303351</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1679877303351</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Committing A7.">
+      <created>1679877314770</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1679877314770</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Committing A7.">
+      <created>1679877329093</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1679877329093</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Committing A7.">
+      <created>1679877724608</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1679877724608</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Committing A7.">
+      <created>1679877846499</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1679877846499</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Committing A7.">
+      <created>1679877969775</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1679877969775</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Committing A7.">
+      <created>1679878052068</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1679878052068</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Committing A7.">
+      <created>1679878654136</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1679878654136</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Committing A7.">
+      <created>1679878683032</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1679878683032</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Committing A7.">
+      <created>1679879128058</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1679879128058</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Committing A7.">
+      <created>1679879292009</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1679879292009</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Committing A7.">
+      <created>1679880378282</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1679880378282</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Committing A7.">
+      <created>1679880924623</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1679880924623</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Committing A7.">
+      <created>1679881160844</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1679881160844</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,6 +497,7 @@
     <MESSAGE value="Committing A6" />
     <MESSAGE value="Committing a6." />
     <MESSAGE value="Submitting a6." />
-    <option name="LAST_COMMIT_MESSAGE" value="Submitting a6." />
+    <MESSAGE value="Committing A7." />
+    <option name="LAST_COMMIT_MESSAGE" value="Committing A7." />
   </component>
 </project>
