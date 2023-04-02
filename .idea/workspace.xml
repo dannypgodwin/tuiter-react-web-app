@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d18ce4b-452a-4d87-b56c-ed29413d7d36" name="Default Changelist" comment="Committing A7.">
+      <change afterPath="$PROJECT_DIR$/src/services/tuits-service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/tuits-thunks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuiter/tuits/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuiter/home/whats-happening.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/home/whats-happening.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuiter/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuiter/tuits/tuits-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/tuits/tuits-item.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuiter/tuits/tuits-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/tuits/tuits-list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuiter/tuits/tuits-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/tuits/tuits-reducer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +26,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="a6" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,8 +48,9 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/dannygodwin/2023/spring/webdev/tuiter-react-web-app/public/imgs&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/dannygodwin/2023/spring/webdev/tuiter-react-web-app&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -54,18 +66,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/public/imgs" />
       <recent name="$PROJECT_DIR$/src/imgs" />
       <recent name="$PROJECT_DIR$/public/assets" />
       <recent name="$PROJECT_DIR$/public/vendors" />
-      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/tuiter/tuits" />
       <recent name="$PROJECT_DIR$/public/assets" />
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$APPLICATION_CONFIG_DIR$/scratches" />
       <recent name="$PROJECT_DIR$/src/nav" />
-      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
@@ -99,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="Node.js.index.js" />
-        <item itemvalue="JavaScript Debug.A4_index.html" />
-        <item itemvalue="JavaScript Debug.a4_index_challenge.html" />
         <item itemvalue="JavaScript Debug.navigation.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.a4_index_challenge.html" />
+        <item itemvalue="JavaScript Debug.A4_index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -141,6 +153,9 @@
       <workItem from="1678916804729" duration="11874000" />
       <workItem from="1679363561997" duration="8305000" />
       <workItem from="1679874653603" duration="6768000" />
+      <workItem from="1680296346486" duration="277000" />
+      <workItem from="1680380756293" duration="101000" />
+      <workItem from="1680382811151" duration="4607000" />
     </task>
     <task id="LOCAL-00003" summary="Committing code.">
       <created>1675658676323</created>

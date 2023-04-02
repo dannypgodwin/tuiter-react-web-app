@@ -13,12 +13,18 @@ import whoReducer from "./reducers/who-reducer";
 import tuitsReducer from "./tuits/tuits-reducer";
 import profileReducer from './reducers/profile-reducer';
 
+// const store = configureStore({
+//     reducer: {
+//         who: whoReducer, tuits: tuitsReducer,
+//         profile: profileReducer,
+//     }
+// });
+
 const store = configureStore({
     reducer: {
-        who: whoReducer, tuits: tuitsReducer,
-        profile: profileReducer,
-    }
-});
+        who: whoReducer,
+        tuitsData: tuitsReducer}});
+
 function Tuiter() {
     return (
         <Provider store={store}>

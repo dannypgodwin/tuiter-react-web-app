@@ -7,7 +7,7 @@ const TuitsItem = ({ post }) => {
   const dispatch = useDispatch();
 
   const handleDeleteTuit = (id) => {
-    dispatch(deleteTuit(id));
+    dispatch(deleteTuitThunk(id));
   };
 
   return (
