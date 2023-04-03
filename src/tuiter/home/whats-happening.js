@@ -1,38 +1,31 @@
 import React, {useState} from "react";
-import { useDispatch } from "react-redux";
-import {createTuit} from "../tuits/tuits-reducer";
+// import {createTuit} from "../tuits/tuits-reducer";
+import {useDispatch} from "react-redux";
+import {createTuitThunk} from "../../services/tuits-thunks.js";
 
 const WhatsHappening = () => {
-    const [tuitText, setTuitText] = useState('');
+    let [whatsHappening, setWhatsHappening] = useState('');
     const dispatch = useDispatch();
-    const handleTuitClick = () => {
-        const newTuit = { tuit: tuitText };
-        dispatch(createTuit(newTuit));
-        setTuitText('');
-    };
-
-    const handleInputChange = (event) => {
-        setTuitText(event.target.value);
-    };
-
+    const tuitClickHandler = () => {
+        const newTuit = {
+            tuit: whatsHappening
+        }
+        dispatch(createTuitThunk(newTuit));
+    }
     return (
         <div className="row">
             <div className="col-auto">
                 <img src="/imgs/nasa.jpg" alt="" width={60}/>
             </div>
             <div className="col-10">
-<textarea
-    value={tuitText}
-    placeholder="What's happening?"
-    className="form-control border-0"
-    onChange={handleInputChange}
-></textarea>
+          <textarea value={whatsHappening}
+                    placeholder="What's happening?"
+                    className="form-control border-0"
+                    onChange={(event) => setWhatsHappening(event.target.value)}>
+          </textarea>
                 <div>
-                    <button
-                        className="rounded-pill btn btn-primary float-end mt-2 ps-3 pe-3 fw-bold"
-                        onClick={handleTuitClick}
-                        disabled={!tuitText}
-                    >
+                    <button className="rounded-pill btn btn-primary float-end mt-2 ps-3 pe-3 fw-bold"
+                            onClick={tuitClickHandler}>
                         Tuit
                     </button>
                     <div className="text-primary fs-2">
@@ -44,11 +37,8 @@ const WhatsHappening = () => {
                     </div>
                 </div>
             </div>
-            <div className="col-12">
-                <hr />
-            </div>
+            <div className="col-12"><hr/></div>
         </div>
     );
-};
-
+}
 export default WhatsHappening;
