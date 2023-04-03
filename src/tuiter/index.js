@@ -11,12 +11,14 @@ import {configureStore} from '@reduxjs/toolkit';
 import {Provider} from "react-redux";
 import whoReducer from "./reducers/who-reducer";
 import tuitsReducer from "./tuits/tuits-reducer";
+import profileReducer from './reducers/profile-reducer';
 
 const store = configureStore({
     reducer: {
-        who: whoReducer,
-        tuitsData: tuitsReducer}});
-
+        who: whoReducer, tuits: tuitsReducer,
+        profile: profileReducer,
+    }
+});
 function Tuiter() {
     return (
         <Provider store={store}>
