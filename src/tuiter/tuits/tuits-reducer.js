@@ -42,7 +42,7 @@
 
 import {createSlice}
     from "@reduxjs/toolkit";
-import tuits from './tuits.json';
+// import tuits from './tuits.json';
 import {deleteTuitThunk, findTuitsThunk, createTuitThunk}
     from "../../services/tuits-thunks";
 
