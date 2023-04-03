@@ -1,6 +1,7 @@
 import React from "react";
 import '@fortawesome/fontawesome-free/css/all.css';
 import {useDispatch} from "react-redux";
+import {deleteTuitThunk} from "../../services/tuits-thunks";
 // import {deleteTuit} from "./tuits-reducer";
 
 const TuitsItem = ({ post }) => {
