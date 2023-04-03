@@ -47,5 +47,4 @@ const TuitsItem = ({ post }) => {
       </li>
   );
 };
-
 export default TuitsItem;
