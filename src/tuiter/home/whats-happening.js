@@ -3,14 +3,16 @@ import { useDispatch } from "react-redux";
 // import { createTuit } from "../tuits/tuits-reducer";
 import {createTuitThunk}
     from "../../services/tuits-thunks";
+import {createTuit} from "../tuits/tuits-reducer";
 
 const WhatsHappening = () => {
     const [tuitText, setTuitText] = useState('');
+    let [whatsHappening, setWhatsHappening] = useState('');
     const dispatch = useDispatch();
 
     const tuitClickHandler = () => {
         const newTuit = {
-            tuit: whatsHappening
+            tuit:   whatsHappening
         }
         dispatch(createTuitThunk(newTuit));
     }
