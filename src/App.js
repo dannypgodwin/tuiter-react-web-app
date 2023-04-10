@@ -5,7 +5,6 @@ import HelloWorld from "./labs/a6/hello-world";
 import {BrowserRouter} from 'react-router-dom';
 import {Routes, Route} from 'react-router';
 
-
 function App() {
     return (
         <BrowserRouter>
