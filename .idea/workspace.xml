@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1d18ce4b-452a-4d87-b56c-ed29413d7d36" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tuiter/tuits/tuits-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuiter/tuits/tuits-list.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,14 +135,7 @@
       <workItem from="1680738324715" duration="427000" />
       <workItem from="1680986343054" duration="1871000" />
       <workItem from="1680993584717" duration="3762000" />
-      <workItem from="1681071184389" duration="5318000" />
-    </task>
-    <task id="LOCAL-00010" summary="Submitting a6.">
-      <created>1678051864809</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1678051864809</updated>
+      <workItem from="1681071184389" duration="6175000" />
     </task>
     <task id="LOCAL-00011" summary="Submitting a6.">
       <created>1679619974011</created>
@@ -481,7 +473,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681090248053</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="A9">
+      <created>1681174827242</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1681174827242</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
